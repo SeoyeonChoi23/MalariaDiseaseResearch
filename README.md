@@ -12,7 +12,7 @@ MLA Citaions:
 Keshavarzi Arshadi, Arash, et al. "Deep Malaria: artificial intelligence driven discovery of potent antiplasmodial." Frontiers in pharmacology 10 (2020): 1526.
 
 
-Useful Links: 
+Links to papers:
 https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.7b00926
 https://www.frontiersin.org/articles/10.3389/fphar.2019.01526/full#h11
 
